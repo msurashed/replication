@@ -1,0 +1,10 @@
+Package: replication
+Title: Learning package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Md Saif Uddin", "Rashed", , "first.last@example.com", role = c("aut", "cre"))
+Description: I am learning the to bulidup the package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
