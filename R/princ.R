@@ -13,5 +13,12 @@
 
 
 squ <- function(x){
-  x^2
+
+  hist(x)
+  boxplot(x)
+  mean(x)
+  median(x)
+  max(x)
+  min(x)
+  sd(x)
 }
