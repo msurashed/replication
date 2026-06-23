@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 # replication
 
-This is a learning stage to develop the packages
+This is learning stage where I can learning the package
 
 The goal of replication is to ...
 
@@ -24,6 +24,7 @@ The goal of replication is to ...
 You can install the development version of replication like so:
 
 Package installation can be done directly by calling `devtools:: install_github("msurashed/replication")`
+
 
 ## Example
 
